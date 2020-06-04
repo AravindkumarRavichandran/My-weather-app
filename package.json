@@ -1,5 +1,5 @@
 {
-  "name": "web-server",
+  "name": "weather-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "dev": "nodemon src/app.js -e js,hbs"
   },
   "keywords": [],
-  "author": "",
+  "author": "Aravind kumar",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
